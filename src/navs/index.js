@@ -6701,12 +6701,22 @@ export const docsMenu = {
                     color: 'blue',
                 },
                 {
+<<<<<<< HEAD
                     name: 'PII scrubbing',
                     url: '/docs/logs/pii-scrubbing',
                     icon: 'IconShield',
                     color: 'purple',
                 },
                 {
+||||||| b0608d063
+=======
+                    name: 'Set up alerts',
+                    url: '/docs/logs/alerts',
+                    icon: 'IconBell',
+                    color: 'red',
+                },
+                {
+>>>>>>> master
                     name: 'PostHog AI',
                 },
                 {
